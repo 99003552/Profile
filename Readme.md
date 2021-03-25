@@ -4,7 +4,7 @@
 
 **Mobile No** :+918309201084
 
-**Programming Skills: **
+## Programming Skills: 
 
 C#
 
