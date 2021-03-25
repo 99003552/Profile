@@ -46,14 +46,13 @@ Certificates : HackRank
 
 a)C# Link:[https://www.hackerrank.com/certificates/d51ea20e0126](https://www.hackerrank.com/certificates/d51ea20e0126)
 
-![](https://github.com/99003552/Profile/blob/main/Badges/Certificate(C%23).PNG?raw=true)
+![HackerRankC#](https://github.com/99003552/Profile/blob/main/Badges/Certificate(C%23).PNG?raw=true)
 
 1. Problem Solving
 
 Link:[https://www.hackerrank.com/certificates/a1cd1d8ed479](https://www.hackerrank.com/certificates/a1cd1d8ed479)
 
-![](RackMultipart20210324-4-yz5itj_html_436ca3d5f7553c5c.png)
-
+![HackerRankProblemsiolving](https://github.com/99003552/Profile/blob/main/Badges/ProblemSolving(C%23).PNG?raw=true)
 Mini Projects:
 
 1. SDLC
