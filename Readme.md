@@ -73,7 +73,7 @@ b)Problem Solving
 
 Link:[https://www.hackerrank.com/certificates/a1cd1d8ed479](https://www.hackerrank.com/certificates/a1cd1d8ed479)
 
-![HackerRankProblemsiolving](https://github.com/99003552/Profile/blob/main/Badges/ProblemSolving(C%23).PNG?raw=true)
+![HackerRankProblemsiolving](https://github.com/99003552/Profile/blob/main/Badges/ProblemSolvingCertificate.PNG?raw=true)
 
 ## Mini Projects:
 
