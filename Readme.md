@@ -46,7 +46,7 @@ Certificates : HackRank
 
 a)C# Link:[https://www.hackerrank.com/certificates/d51ea20e0126](https://www.hackerrank.com/certificates/d51ea20e0126)
 
-![](RackMultipart20210324-4-yz5itj_html_1c89098fa6e44508.png)
+![](https://github.com/99003552/Profile/blob/main/Badges/Certificate(C%23).PNG?raw=true)
 
 1. Problem Solving
 
