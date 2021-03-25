@@ -40,7 +40,11 @@ A)C# Problem Solving
 
 ![](https://github.com/99003552/Profile/blob/main/Badges/ProblemSolving(C%23).PNG?raw=true)
 
-B)
+B)  SQL Server
+
+![](https://github.com/99003552/Profile/blob/main/Badges/SQLBadge.PNG?raw=true)
+
+
 
 1. Microsoft
 
