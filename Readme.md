@@ -54,9 +54,10 @@ B)  SQL Server
 
 ![](https://github.com/99003552/Profile/blob/main/Badges/SQLBadge.PNG?raw=true)
 
-
-
 ## 2. Microsoft
+
+![](https://github.com/99003552/Profile/blob/main/Badges/Microsoft.PNG?raw=true)
+
 
 ## Certificates : 
 
