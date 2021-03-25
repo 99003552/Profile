@@ -61,7 +61,7 @@ B)  SQL Server
 
 ## Certificates : 
 
-HackRank
+HackerRank
 
 a)C# 
 
