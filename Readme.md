@@ -8,7 +8,7 @@
 
 C#
 
-##Frameworks : 
+## Frameworks :
 
 .NET Framework
 
@@ -20,7 +20,7 @@ ASP.NET Web Api
 
 ASP.NET MVC
 
-##Tools : 
+## Tools : 
 
 SQL Server Management Studio
 
@@ -32,19 +32,19 @@ PostMan
 
 LINQPad
 
-##Platform : 
+## Platform : 
 
 Azure DevOps
 
 GitHub
 
-##Badges : 
+## Badges : 
 
 HackerRank
 
 Microsoft
 
-##1. HackerRank
+## 1. HackerRank
 
 A)C# Problem Solving 
 
@@ -56,9 +56,9 @@ B)  SQL Server
 
 
 
-##2. Microsoft
+## 2. Microsoft
 
-##Certificates : 
+## Certificates : 
 
 HackRank
 
@@ -74,9 +74,9 @@ Link:[https://www.hackerrank.com/certificates/a1cd1d8ed479](https://www.hackerra
 
 ![HackerRankProblemsiolving](https://github.com/99003552/Profile/blob/main/Badges/ProblemSolving(C%23).PNG?raw=true)
 
-##Mini Projects:
+## Mini Projects:
 
-##1. SDLC
+## 1. SDLC
 
 A) Loan Amount Calculator:
 
@@ -86,7 +86,7 @@ Loan amount calculator can calculate the simple and compound interest of the inp
 
 Link:[https://github.com/99003668/Team-5](https://github.com/99003668/Team-5)
 
-##2. C#
+## 2. C#
 
 1. Student Management System
 
@@ -106,7 +106,7 @@ A boiler plate code for logistics based on the transportation.
 
 Link:[https://github.com/99003552/CSHARP\_DAY4\_ACTIVITY1/tree/master/ABCLogistics](https://github.com/99003552/CSHARP_DAY4_ACTIVITY1/tree/master/ABCLogistics)
 
-##3. SQL Server
+## 3. SQL Server
 
 A) DemoKart
 
@@ -114,7 +114,7 @@ Created a database named DemoKart contains data sets like product,users,cart,ord
 
 Link:[https://github.com/99003508/DemoKart\_DB](https://github.com/99003508/DemoKart_DB)
 
-##4. ADO.Net
+## 4. ADO.Net
 
 A)DemoKart :
 
@@ -122,7 +122,7 @@ Leveraged the ADO.Net by 3-Layer Architecture like Data Access Layer,Business La
 
 Link:[https://dev.azure.com/madduhemasupriya/99003552\_DemoKart\_App](https://dev.azure.com/madduhemasupriya/99003552_DemoKart_App)
 
-##5. ADO.Net Entity Framework
+## 5. ADO.Net Entity Framework
 
 1. DemoKart:
 
@@ -132,13 +132,13 @@ Link:[https://dev.azure.com/madduhemasupriya/99003552\_EntityFramework](https://
 
 1. ASP.Net Web Api
 
-##6. Embedded\_Lab\_Management:
+## 6. Embedded\_Lab\_Management:
 
 To manage the lab kits ,so created a database contains users,asset,kit,asset allocation.Implemented the web api along with ado.net and ado.net entity framework.
 
 Link:[https://dev.azure.com/madduhemasupriya/99003552\_Emb\_Lab\_Mgmt](https://dev.azure.com/madduhemasupriya/99003552_Emb_Lab_Mgmt)
 
-##7. ASP.Net MVC
+## 7. ASP.Net MVC
 
 A). Implemented Action Results and Action Filters using views.
 
