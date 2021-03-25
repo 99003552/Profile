@@ -36,7 +36,11 @@ Microsoft
 
 1. HackerRank
 
-A) ![](https://github.com/99003552/Profile/blob/main/Badges/ProblemSolving(C%23).PNG?raw=true)
+A)C# Problem Solving 
+
+![](https://github.com/99003552/Profile/blob/main/Badges/ProblemSolving(C%23).PNG?raw=true)
+
+B)
 
 1. Microsoft
 
