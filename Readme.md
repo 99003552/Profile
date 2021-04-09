@@ -136,9 +136,9 @@ Also achieved by 3-layered approach using Entity Framework by automated connecti
 
 Link:[https://dev.azure.com/madduhemasupriya/99003552\_EntityFramework](https://dev.azure.com/madduhemasupriya/99003552_EntityFramework)
 
-1. ASP.Net Web Api
+## 6. ASP.Net Web Api
 
-## 6. Embedded\_Lab\_Management:
+1. Embedded\_Lab\_Management
 
 To manage the lab kits ,so created a database contains users,asset,kit,asset allocation.Implemented the web api along with ado.net and ado.net entity framework.
 
