@@ -96,19 +96,19 @@ Link:[https://github.com/99003668/Team-5](https://github.com/99003668/Team-5)
 
 A). Student Management System
 
-Student management system is a boiler plate code to manage the student details like adding,removing,updating which was written in C#.
+Student management system is a mini project to manage the student details like adding,removing,updating which was written in C#.
 
 Link:[https://github.com/99003552/CSHARP\_DAY4\_ACTIVITY4](https://github.com/99003552/CSHARP_DAY4_ACTIVITY4)
 
 B). Shopping Cart
 
-Shopping Cart is also a boiler plate code to manage the products in to the cart of the customer by authorizing and displaying the cart and adding details to the cart.
+Shopping Cart is also a mini project to manage the products in to the cart of the customer by authorizing and displaying the cart and adding details to the cart.
 
 Link: [https://github.com/99003552/CSHARP\_DAY3\_ACTIVITY1](https://github.com/99003552/CSHARP_DAY3_ACTIVITY1)
 
 c). ABC logistics:
 
-A boiler plate code for logistics based on the transportation.
+A prototype for logistics based on the transportation.
 
 Link:[https://github.com/99003552/CSHARP\_DAY4\_ACTIVITY1/tree/master/ABCLogistics](https://github.com/99003552/CSHARP_DAY4_ACTIVITY1/tree/master/ABCLogistics)
 
