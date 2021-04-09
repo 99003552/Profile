@@ -74,6 +74,11 @@ b)Problem Solving
 Link:[https://www.hackerrank.com/certificates/a1cd1d8ed479](https://www.hackerrank.com/certificates/a1cd1d8ed479)
 
 ![HackerRankProblemsiolving](https://github.com/99003552/Profile/blob/main/Badges/ProblemSolvingCertificate.PNG?raw=true)
+c)SQL 
+
+Link:[https://www.hackerrank.com/certificates/d2d640b447b7](https://www.hackerrank.com/certificates/d2d640b447b7)
+
+![HackerRankSQL](https://github.com/99003552/Profile/blob/main/Badges/SQL%20Intermediate.PNG?raw=true)
 
 ## Mini Projects:
 
