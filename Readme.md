@@ -94,19 +94,19 @@ Link:[https://github.com/99003668/Team-5](https://github.com/99003668/Team-5)
 
 ## 2. C#
 
-1. Student Management System
+A). Student Management System
 
 Student management system is a boiler plate code to manage the student details like adding,removing,updating which was written in C#.
 
 Link:[https://github.com/99003552/CSHARP\_DAY4\_ACTIVITY4](https://github.com/99003552/CSHARP_DAY4_ACTIVITY4)
 
-2. Shopping Cart
+B). Shopping Cart
 
 Shopping Cart is also a boiler plate code to manage the products in to the cart of the customer by authorizing and displaying the cart and adding details to the cart.
 
 Link: [https://github.com/99003552/CSHARP\_DAY3\_ACTIVITY1](https://github.com/99003552/CSHARP_DAY3_ACTIVITY1)
 
-3. ABC logistics:
+c). ABC logistics:
 
 A boiler plate code for logistics based on the transportation.
 
@@ -130,7 +130,7 @@ Link:[https://dev.azure.com/madduhemasupriya/99003552\_DemoKart\_App](https://de
 
 ## 5. ADO.Net Entity Framework
 
-1. DemoKart:
+A). DemoKart:
 
 Also achieved by 3-layered approach using Entity Framework by automated connections of the database.
 
@@ -138,7 +138,7 @@ Link:[https://dev.azure.com/madduhemasupriya/99003552\_EntityFramework](https://
 
 ## 6. ASP.Net Web Api
 
-1. Embedded\_Lab\_Management
+A). Embedded\_Lab\_Management
 
 To manage the lab kits ,so created a database contains users,asset,kit,asset allocation.Implemented the web api along with ado.net and ado.net entity framework.
 
@@ -150,6 +150,6 @@ A). Implemented Action Results and Action Filters using views.
 
 Link:[https://dev.azure.com/madduhemasupriya/99003552\_MVC\_ActionFilters](https://dev.azure.com/madduhemasupriya/99003552_MVC_ActionFilters)
 
-B)Implemented MVC for the existing project Embedded\_Lab\_Management.
+B). Implemented MVC for the existing project Embedded\_Lab\_Management.
 
 Link:[https://dev.azure.com/madduhemasupriya/99003552\_Emb\_Lab\_Mgmt](https://dev.azure.com/madduhemasupriya/99003552_Emb_Lab_Mgmt)
